@@ -10,19 +10,13 @@
 <br>
 <div align=center> <b>⚡ Sparcs Science Hackathon A14 ⚡</b></div>
 <br>
-<div align=center>  👨‍⚖️ (기획/디자인) 송효재 
-  👩‍🌾 (AI) 박종범 
-  👨‍🎨 (백엔드) 김우현 
-  👩‍🚀 (안드로이드) 김성민 </div>
-<br>
-
 <div align = "center">
 <table>
   <tr>
-    <th><div align="center">👨‍🎨김성민</div></th>
-    <th><div align="center">👨‍🔧박종범</div></th>
-    <th><div align="center">👮‍♂️김우현</div></th>
-    <th><div align="center">🧛‍♀️송효재</div></th>
+    <th><div align="center">김성민</div></th>
+    <th><div align="center">박종범</div></th>
+    <th><div align="center">김우현</div></th>
+    <th><div align="center">송효재</div></th>
   </tr>
   <tr>
     <td>
